@@ -1,0 +1,8 @@
+# Notebooks
+*.ipynb_checkpoint
+
+# DS_Store
+*.DS_Store
+
+# Ignore Intern Project folder
+/Intern Project 
